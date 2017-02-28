@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import Ccmark
+import cmark
 
 struct Markdown {
     var string: String
